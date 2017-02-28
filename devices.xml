@@ -7,4 +7,9 @@
 	<device name="Humidity Sensor">
 		<unit>%</unit>
 	</device>
+
+	<device name="Presure Senso">
+		<range min="900" max="1100" />
+		<unit>hPa</unit>
+	</device>
 </devices>
