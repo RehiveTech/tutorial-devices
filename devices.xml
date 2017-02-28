@@ -3,4 +3,8 @@
 		<range min="-30" max="40" />
 		<unit>&#176;C</unit>
 	</device>
+
+	<device name="Humidity Sensor">
+		<unit>%</unit>
+	</device>
 </devices>
