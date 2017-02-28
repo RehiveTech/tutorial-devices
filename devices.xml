@@ -1,0 +1,6 @@
+<devices>
+	<device name="Temperature Sensor">
+		<range min="-30" max="40" />
+		<unit>&#176;C</unit>
+	</device>
+</devices>
